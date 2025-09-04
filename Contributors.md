@@ -63,7 +63,7 @@ sdumini
 - [Shivam Verma] (https://github.com/shivamxverma)
 - [one small step for humanity]
 - [Amelia Ali]
-- [TranNhutQuang]
+- [TranNhutQuang-DNC]
 
 -[Shivanna] (https://github.com/shivannadm)
 
